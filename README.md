@@ -31,7 +31,7 @@
 
 # 📖 My Enumerable <a name="about-project"></a>
 
-- This project is part of the Microverse Ruby curriculum. The goal is to build a custom version of the Enumerable module in Ruby.
+- This projects purpose is to build a custom version of the Enumerable module in Ruby.
 
 ---
 
@@ -78,7 +78,7 @@ Example commands:
 
 ```bash
   cd my-folder
-  git clone git@github.com:mwismann/my_enumerable.git
+  git clone git@github.com:ITurres/ruby_enumerable.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
